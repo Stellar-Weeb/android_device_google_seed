@@ -1,3 +1,6 @@
-# This script is needed to patch rom repo
-rm -rf hardware/qcom-caf/wlan
-python device/google/seed/patch_repo.py
+echo ""
+echo "//     owZ' vendorsetup.sh      //"
+echo "// Specialized for seed! (≧▽≦) //"
+echo ""
+echo "You're building this ROM for Seed. Good luck! (✿^‿^)"
+echo ""
