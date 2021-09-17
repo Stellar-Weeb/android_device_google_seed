@@ -1,5 +1,5 @@
 echo ""
-echo "//     owZ' vendorsetup.sh      //"
+echo "//     owZ' vendorsetup.sh     //"
 echo "// Specialized for seed! (≧▽≦) //"
 echo ""
 echo "You're building this ROM for Seed. Good luck! (✿^‿^)"
