@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- About Device Dashboard -->
+    <string name="stellar_device_name_summary">Android One 2nd Gen</string>
+    <string name="stellar_chipset_type_summary">Qualcomm Snapdragon™ 410</string>
+    <string name="stellar_gpu_summary">Qualcomm Adreno 306</string>
+    <string name="stellar_camera_mp_summary">13MP+5MP Dual Camera</string>
+    <string name="stellar_screen_type_summary">IPS LCD HD 5.0 Screen</string>
+
+</resources>
